@@ -1,1 +1,0 @@
-# web-teknolojileri-proje
