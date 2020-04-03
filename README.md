@@ -1,8 +1,8 @@
-<h1>Bizerte Şehri</h1>
-<img src ="https://i.pinimg.com/originals/cb/60/26/cb60269e61b40fbe3a8a64eaad2cf42c.jpg" width="600" height="450">
+<h1>Tunus Şehri</h1>
+<img src ="https://observatoirevivreensemble.org/sites/observatoirevivreensemble.org/files/styles/obs-screen-lg-16-9/public/av_bourguiba.jpg?itok=g-wRGuZQ" width="600" height="450">
 <p>   Bu projede Web Teknolojileri Dersindeki öğrendiğimiz teknikleri kullanarak kendimi ve büyüdüğüm şehir Bizert'i tanıtan bir site oluşturmaya çalışacağım.</p>
 <h2> Projenin içeriği </h2>
-<p> Sitede Tunus'un küzeyinde bulunan Bizerte şehriyle ilgili Şehrin nufusu, gezilecek yerler vb.. gibi çeşitli bilgiler resimlerle beraber bulabilirsiniz </p>
+<p> Sitede Tunus'un başkenti Tunus şehriyle ilgili Şehrin nufusu, gezilecek yerler vb.. gibi çeşitli bilgiler resimlerle beraber bulabilirsiniz </p>
 <h2> Kullanılan Teknolojileri </h2>
 <p> Bu projede HTML CSS PHP Javascript gibi Web Programlamanın ünlü teknikleri ve dilleri kullanılacak </p>
 <h2> Projenin Sahibi </h2>
