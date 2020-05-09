@@ -1,4 +1,4 @@
-<h1>My Minimalistic Websites</h1>
+<h1>My Minimalistic Website</h1>
 <img src ="https://observatoirevivreensemble.org/sites/observatoirevivreensemble.org/files/styles/obs-screen-lg-16-9/public/av_bourguiba.jpg?itok=g-wRGuZQ" width="600" height="300">
 <p>   Bu projede Web Teknolojileri Dersindeki öğrendiğimiz teknikleri kullanarak kendimi ve doğduğum şehir Tunus'u tanıtan bir site oluşturmaya çalışacağım.</p>
 <h2> Projenin içeriği </h2>
