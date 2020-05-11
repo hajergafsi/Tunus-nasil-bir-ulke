@@ -146,9 +146,13 @@ body {
 }
 
 @media screen and (max-width: 1200px){
-    .Container {
-        width:  100rem;
+    .container {
+        width:  80rem;
         padding-right: 0px ;
+        height:100rem;
+    }
+    .head, header{
+        width : 80rem;
     }
 }
 
