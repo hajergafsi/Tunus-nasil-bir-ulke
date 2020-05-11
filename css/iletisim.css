@@ -158,10 +158,28 @@ body {
     }
 }
 
-@media screen and (max-width: 1200px){
-    .Container {
-        width:  100rem;
-        padding-right: 0px ;
+@media screen and (max-width: 1000px){
+    .container {
+    min-width:  80rem; 
+    min-height:100rem; 
+    }
+    .head, header{
+        width : 80rem;
+    }
+    .head{
+        background-position :top ;
+        /*background-image: url(../images/body9.jpg) ;*/
+        background-size : 80rem 80rem;
+    }
+    body{
+    overflow-y:hidden;
+    padding :0;
+    margin :0;
+    height:100%;
+    background-image: url(../images/wallpaperflare.com_wallpaper.jpg) ;
+    }
+    .navbar{
+        max-width : 30rem;
     }
 }
 
