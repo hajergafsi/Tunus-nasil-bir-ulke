@@ -139,15 +139,16 @@ body {
         /* Align items to the begining (the left) of the header. */
         align-items: flex-start;
     }
-}
-
 @media screen and (max-width: 1200px){
-    .Container {
-        width:  100rem;
+    .container {
+        width:  80rem;
         padding-right: 0px ;
+        height:100rem;
+    }
+    .head, header{
+        width : 80rem;
     }
 }
-
 @media screen and (max-width: 600px) {
   .navbar a:not(:first-child) {display: none;}
   .navbar a.icon {
