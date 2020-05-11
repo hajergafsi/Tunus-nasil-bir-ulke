@@ -141,10 +141,19 @@ body {
     }
 }
 
-@media screen and (max-width: 1200px){
+
+@media screen and (max-width: 1000px){
     .Container {
         width:  100rem;
+        max-height : 100rem;
         padding-right: 0px ;
+    }
+    body{
+        /*max-height:50rem;*/
+        background-size :  100rem 180rem ;
+    }
+    .navbar{
+        max-width : 23rem;
     }
 }
 
