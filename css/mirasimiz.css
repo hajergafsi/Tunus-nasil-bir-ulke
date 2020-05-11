@@ -153,11 +153,23 @@ body {
     }
 }
 
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1000px){
     .Container {
-        width:  100rem;
+        width:  80rem;
         padding-right: 0px ;
+        max-height:50rem;
     }
+    .head, header{
+        width : 80rem;
+        font-size: 1rem;
+    }
+    body{
+    height:150rem;    
+    }
+    .navbar{
+        width:23rem;
+    }
+
 }
 
 @media screen and (max-width: 600px) {
