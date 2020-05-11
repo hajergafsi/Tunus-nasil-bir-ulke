@@ -13,6 +13,7 @@ session_start();
         <title>iletişim</title>
         <link rel="stylesheet" type="text/css" href="css/iletisim.css">
         <link href='https://fonts.googleapis.com/css?family=Montez' rel='stylesheet'>
+        <script type="text/javascript" src="javascript/homepage.js"></script>
         <link href='https://fonts.googleapis.com/css?family=Amita' rel='stylesheet'>
         <link href='https://fonts.googleapis.com/css?family=Bad Script' rel='stylesheet'>
         <link href='https://fonts.googleapis.com/css?family=Sofia' rel='stylesheet'>
