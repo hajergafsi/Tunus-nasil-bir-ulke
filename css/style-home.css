@@ -220,3 +220,37 @@ body {
 footer  {
   display: block;
 }
+
+@media screen and (max-width: 1200px){
+    .Container {
+        width:  50rem;
+        padding-right: 0px ;
+        padding-bottom :0;
+        height : 100%;
+        margin-left: 0;
+        float : left;
+    }
+    .icons{
+        float :left;
+        margin-left :-200px;
+    }
+    body{
+        height :100rem;
+        padding-bottom : -200px;
+        max-width :30rem;
+    }
+    footer{
+    text-align : left;
+    }
+    .navbar {
+    max-width :22.5rem;
+        
+    }
+    .navbar {
+  background-color: #333;
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+}
+
+}
