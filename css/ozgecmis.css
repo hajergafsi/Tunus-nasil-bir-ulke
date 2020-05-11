@@ -40,7 +40,43 @@
     margin-top: 20px;
     color: aliceblue;  
 }
+@media screen and (max-width: 1000px){
+    .head, header{
+        width: 100%;
+    }
+    .container {
+        /*padding-right: 0px ;*/
+        overflow-x:hidden;
+        overflow-y:hidden;
+        padding-top :5rem;
+        padding-bottom :0;
+        max-height : 260rem;
+        margin-left: 0;
+        float : left;
+    }
+    body{
+        overflow-x:hidden;
+        overflow-y:hidden;
+        max-height : 260rem;
+        width :100rem;
+    }
+    footer{
+    text-align : left;
+     }
+    .navbar {
+    margin-top :10rem;
+    width: 100%;   
+    }
 
+    .CV{
+        overflow-x:hidden;
+        overflow-y:hidden;
+        /*min-height : 100rem;*/
+        background: none;
+        float : right ;
+    }
+
+}
 a{
     text-decoration: none;
     color: azure ;
@@ -57,7 +93,16 @@ header a:hover {
     text-align: left;
   }
 }
-
+@media screen and (max-width: 500px) {
+  header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+    .header-right {
+    float: none;
+  }
+}
 header{
     background-color : #01142F;
     border : 1px ;
@@ -98,15 +143,18 @@ body {
 
 
 .navbar {
+  float : right;
   background-color: #333;
-  //overflow: hidden;
-  position: fixed;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: absolute;
   bottom: 0;
   width: 100%;
 }
 
 .navbar a {
-  float: left;
+
+  float: right;
   display: block;
   color: #f2f2f2;
   text-align: center;
@@ -160,7 +208,7 @@ body {
 
 
 .navbar {
-  max-width: 82.3rem ;
+  /*max-width: 82.3rem ;*/
   margin-top: 0px;
   position: relative;
   display: -ms-flexbox;
@@ -195,8 +243,8 @@ body {
     margin-right: 200px ;
     border: 1px;
     //border-style: solid ;
-    min-width: 55rem;
-    min-height: 120rem;
+    width: 55rem;
+    height: 120rem;
     background-image: url(../images/old3.png) ;
     background-repeat: no-repeat ;
     background-size: 60rem 130rem ;
@@ -245,4 +293,5 @@ body {
     margin-top: -50px;
     vertical-align: top;
 }
+
 
