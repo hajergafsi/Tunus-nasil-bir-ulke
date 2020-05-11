@@ -149,11 +149,19 @@ body {
     .container {
         width:  80rem;
         padding-right: 0px ;
-        height:100rem;
+        max-height:50rem;
     }
     .head, header{
         width : 80rem;
+        font-size: 1rem;
     }
+    body{
+    max-height:40rem;    
+    }
+    .navbar{
+        width:23rem;
+    }
+
 }
 
 @media screen and (max-width: 600px) {
